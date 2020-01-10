@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293497079786",
+    "firebase_url": "https://crypto-438a3.firebaseio.com",
+    "project_id": "crypto-438a3",
+    "storage_bucket": "crypto-438a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293497079786:android:c5eef2499406e4a8b3d493",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.ti17a17313015.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293497079786-ja7ua429ul2ogocmfthmulp5vnt083uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.ti17a17313015.crypto",
+            "certificate_hash": "7a4156ac2306b9a414d0b7c55242d5e183c6c659"
+          }
+        },
+        {
+          "client_id": "293497079786-r1mp3c4daiul376e1svn82hfpoc58q5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhebHGQQuGM0OkTYY-CtHYaul148e8G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293497079786-r1mp3c4daiul376e1svn82hfpoc58q5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
